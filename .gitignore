@@ -1,0 +1,5 @@
+export/*
+node_modules/*
+.vscode/*
+IndexNow.json
+webserver.bat
